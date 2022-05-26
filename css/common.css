@@ -72,6 +72,10 @@ ul {
 .footer-adress-link {
     color: #ffffff;
     background-color: #2F303A;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;    
+        letter-spacing: 0.03em;
 }
 
 .footer-adress-link:hover,
@@ -84,8 +88,12 @@ ul {
 }
 
 .footer-link {
-    color: #F5F4FA;
+    color: rgba(255, 255, 255, 0.6);
     background-color: #2F303A;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
 }
 
 .footer-link:hover,

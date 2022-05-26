@@ -224,34 +224,5 @@ color: var(--primary-text-color);
         letter-spacing: 0.03em;
 }
 
-/* footer */
-
-.footer-adress-link {
-    color: #ffffff;
-    background-color: #2F303A;
-}
-
-.footer-adress-link:hover,
-.footer-adress-link:focus {
-    color: var(--accent-color);
-}
-
-.footer-adress-link:active {
-    color: var(--primary-text-color);
-}
-
-.footer-link{
-    color: #F5F4FA;
-    background-color: #2F303A;
-}
-
-.footer-link:hover,
-.footer-link:focus {
-    color: var(--accent-color);
-}
-
-.footer-link:active {
-    color: var(--primary-text-color);
-}
 
   
