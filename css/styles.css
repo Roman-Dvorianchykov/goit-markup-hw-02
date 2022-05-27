@@ -30,7 +30,7 @@ ul {
 }
 
 button {
-    font-family: 'Roboto', sans-serif;
+    font-family: inherit;
 
     cursor: pointer;
 
@@ -70,6 +70,9 @@ address{
     color:var(--primary-text-color);
  }
 
+ .auth-nav a{
+    color: var(--secondary-text-color);
+ }
 .header-link:hover, 
 .header-link:focus
 { color: var(--accent-color);
@@ -81,10 +84,18 @@ address{
 
 .header-link-portfolio-current{
         color: var(--accent-color);
+
+    font-weight: 500;
+        font-size: 14px;
+        line-height: 1.14;
     }
 .header-link-studio-current
 {
-        color: var(--accent-color);
+    color: var(--accent-color);
+
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
     }
 
 
